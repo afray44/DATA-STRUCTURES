@@ -9,11 +9,11 @@ the course material as quick and easy as possible. The videos are helpful, but s
 grasp and therefore the textbook is a gold mine of information for your full understanding of certain concepts.
 
 Part I:  Linear Structures
-__________________________
+=========================
 Linear structures are the easiest part of CS 112, so make sure you take advantage of this and destroy the first exam and the first few assignments that use linear data structures.
 
-|Linked Lists|
---------------
+Linked Lists
+-------------
 Circular Linked Lists and doubly linked lists don’t usually appear on exams, but it is still good to learn them
 to increase your understanding of linked lists in general.
 
