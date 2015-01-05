@@ -29,7 +29,7 @@ to increase your understanding of linked lists in general.
           ------------------- | -------------------------- | ------------
           Access              |    Random                  | Sequential from beginning of list (in order)
           Insertion/Deletion  | entries have to be shifted |Nothing must be done to entries
-          Storage             |Allocated in one shot (intial size of array cannot change)|
+          Storage             |Allocated in one shot (initial size of array cannot change)| Allocated only when needed (Initial size of list can change)
 
   
  
