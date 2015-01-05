@@ -25,11 +25,11 @@ to increase your understanding of linked lists in general.
   - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
   - Difference between linked list and array
   
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
-  -----------------------------------------------------------------------------------------------------------------
-      OPERATION                    |          ARRAY                        |         LINKED LIST
- -------------------------------------------------------------------------------------------------------------------
-      ACCESS                       | Random, single Step                   | Random acces can't be used. Access                                          |                                       | always starts from beginning of list.
   
  
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
