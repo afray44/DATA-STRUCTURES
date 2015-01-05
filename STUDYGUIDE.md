@@ -1,6 +1,5 @@
-
-STUDY GUIDE
-===========
+DATA STRUCTURES STUDY GUIDE
+___________________________
 
 
 Welcome to my CS 112 study guide. There are a few references to the textbook within the study guide so
