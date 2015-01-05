@@ -20,5 +20,11 @@ to increase your understanding of linked lists in general.
 |Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6]|
 ------------------------------------------------------------------------
   - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
+  - Difference between linked list and array
+                                         dog | bird | cat
+                                         ----|------|----
+                                         foo | foo  | foo
+                                         bar | bar  | bar
+                                         baz | baz  | baz
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
   - [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
