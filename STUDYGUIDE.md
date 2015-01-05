@@ -14,7 +14,7 @@ Part I:  Linear Structures
 
 |Linked Lists|
 --------------
-Circular Linked Lists and doubly linked lists don’t normally appear on exams, but it is still good to learn them
+Circular Linked Lists and doubly linked lists don’t usually appear on exams, but it is still good to learn them
 to increase your understanding of linked lists in general.
 
 -  Regular Linked Lists Summary:
