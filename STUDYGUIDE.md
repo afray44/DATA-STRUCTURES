@@ -8,6 +8,9 @@ the course. I try and choose videos that have the shortest and best explanations
 the course material as quick and easy as possible. The videos are helpful, but some concepts are difficult to
 grasp and therefore the textbook is a gold mine of information for your full understanding of certain concepts.
 
+
+
+==========================
 Part I:  Linear Structures
 =========================
 Linear structures are the easiest part of CS 112, so make sure you take advantage of this and destroy the first exam and the first few assignments that use linear data structures.
@@ -21,10 +24,6 @@ to increase your understanding of linked lists in general.
 ------------------------------------------------------------------------
   - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
   - Difference between linked list and array
-                                         dog | bird | cat
-                                         ----|------|----
-                                         foo | foo  | foo
-                                         bar | bar  | bar
-                                         baz | baz  | baz
+ 
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
   - [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
