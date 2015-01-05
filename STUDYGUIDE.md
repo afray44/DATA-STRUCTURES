@@ -26,9 +26,9 @@ to increase your understanding of linked lists in general.
   - Difference between linked list and array
   
   -----------------------------------------------------------------------------------------------------------------
-      OPERATION                              ARRAY                                 LINKED LIST
+      OPERATION                    |          ARRAY                        |         LINKED LIST
  -------------------------------------------------------------------------------------------------------------------
-      ACCESS                        Random, single Step                       Random acces can't be used. Access                                                                                    always starts from beginning of list.
+      ACCESS                       | Random, single Step                   | Random acces can't be used. Access                                          |                                       | always starts from beginning of list.
   
  
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
