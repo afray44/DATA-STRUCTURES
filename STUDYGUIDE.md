@@ -23,12 +23,12 @@ to increase your understanding of linked lists in general.
 |Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6]|
 ------------------------------------------------------------------------
   - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
-  - Difference between linked list and array
-  
-Operation     |     Array     | Linked List
-------------- | ------------- | ------------
-Access        |    Random     | Sequential from beginning of list (in order)
-Content Cell  | Content Cell  |
+  - Difference between linked list and array:
+
+          Operation           |     Array     | Linked List
+          ------------------- | ------------- | ------------
+          Access              |    Random     | Sequential from beginning of list (in order)
+          Insertion/Deletion  | Content Cell  |
 
   
  
