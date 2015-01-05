@@ -1,5 +1,5 @@
 DATA STRUCTURES STUDY GUIDE
-___________________________
+===========================
 
 
 Welcome to my CS 112 study guide. There are a few references to the textbook within the study guide so
@@ -9,8 +9,8 @@ the course material as quick and easy as possible. The videos are helpful, but s
 grasp and therefore the textbook is a gold mine of information for your full understanding of certain concepts.
 
 Part I:  Linear Structures
---------------------------
-Linear structures are the easiest part of CS 112, so make sure you take advantage of this and destroy the first exam and the first few assignements that use linear data structures.
+__________________________
+Linear structures are the easiest part of CS 112, so make sure you take advantage of this and destroy the first exam and the first few assignments that use linear data structures.
 
 |Linked Lists|
 --------------
