@@ -10,7 +10,7 @@ grasp and therefore the textbook is a gold mine of information for your full und
 
 
 
-==========================
+
 Part I:  Linear Structures
 =========================
 Linear structures are the easiest part of CS 112, so make sure you take advantage of this and destroy the first exam and the first few assignments that use linear data structures.
@@ -24,6 +24,12 @@ to increase your understanding of linked lists in general.
 ------------------------------------------------------------------------
   - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
   - Difference between linked list and array
+  
+  -----------------------------------------------------------------------------------------------------------------
+      OPERATION                              ARRAY                                 LINKED LIST
+ -------------------------------------------------------------------------------------------------------------------
+      ACCESS                        Random, single Step                       Random acces can't be used. Access                                                                                    always starts from beginning of list.
+  
  
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
   - [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
