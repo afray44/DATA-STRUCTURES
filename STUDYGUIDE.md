@@ -25,10 +25,11 @@ to increase your understanding of linked lists in general.
   - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
   - Difference between linked list and array:
 
-          Operation           |     Array     | Linked List
-          ------------------- | ------------- | ------------
-          Access              |    Random     | Sequential from beginning of list (in order)
-          Insertion/Deletion  | Content Cell  |
+          Operation           |     Array                  | Linked List
+          ------------------- | -------------------------- | ------------
+          Access              |    Random                  | Sequential from beginning of list (in order)
+          Insertion/Deletion  | entries have to be shifted |Nothing must be done to entries
+          Storage             |Allocated in one shot (intial size of array cannot change)|
 
   
  
