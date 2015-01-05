@@ -15,7 +15,7 @@ Part I:  Linear Structures
 |Linked Lists|
 --------------
 Circular Linked Lists and doubly linked lists don’t normally appear on exams, but it is still good to learn them
-to increase your understanding linked lists in general.
+to increase your understanding of linked lists in general.
 
 - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
   Regular Linked Lists Summary:
