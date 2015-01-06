@@ -11,6 +11,7 @@ grasp and therefore the textbook is a gold mine of information for your full und
 
 
 
+
 Part I:  Linear Structures
 =========================
 :boom: Linear structures are the easiest part of CS 112, so make sure you take advantage of this and destroy the first exam and the first few assignments that use linear data structures. :boom:
