@@ -35,7 +35,7 @@ to increase your understanding of linked lists in general.
           Storage             |Allocated in one shot (initial size of array cannot change)| Allocated only when needed (Initial size of list can change)
 
   
-- Generic definition of a node (look at [generics](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUIDE.md#3-generic-types) to fully understand what you are seeing below):
+- Generic definition of a node (look at [Generic Types](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUIDE.md#3-generic-types) to fully understand the image in the link below):
 
   [Generic node definition image (RUSPC)](https://drive.google.com/open?id=0Byz834eiY3wXUFhVbjNTODVDMms&authuser=0)
 
