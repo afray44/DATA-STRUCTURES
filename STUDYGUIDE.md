@@ -36,8 +36,7 @@ to increase your understanding of linked lists in general.
 
   
 - Generic definition of a node (look at generics to fully understand what you are seeing below):
-   ![Alt text](https://drive.google.com/file/d/0Byz834eiY3wXUFhVbjNTODVDMms/view?usp=sharing "Optional title")
-    
+  https://drive.google.com/open?id=0Byz834eiY3wXUFhVbjNTODVDMms&authuser=0
 
 - Insertion of a node
 - Deletion of a node
