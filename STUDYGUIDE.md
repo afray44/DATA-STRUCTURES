@@ -20,8 +20,8 @@ Linked Lists
 -------------
 Circular Linked Lists and doubly linked lists don’t usually appear on exams, but it is still good to learn them
 to increase your understanding of linked lists in general.
-###### The 6th largest heading (an <h6> tag)
-|Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6]|
+### Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6]
+
 ------------------------------------------------------------------------
 [Imagining a Linked List (Sesh Venugopal)](https://www.youtube.com/watch?v=_ri3Qm5A4Dk)
   - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
