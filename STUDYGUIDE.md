@@ -17,7 +17,7 @@ Part I:  Linear Structures
 :boom: Linear structures are the easiest part of CS 112, so make sure you take advantage of this and destroy the first exam and the first few assignments that use linear data structures. :boom:
 
 1.) Linked Lists
--------------
+---------------
 Circular Linked Lists and doubly linked lists don’t usually appear on exams, but it is still good to learn them
 to increase your understanding of linked lists in general.
 
@@ -39,5 +39,23 @@ to increase your understanding of linked lists in general.
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
   
 ###### :white_check_mark: Doubly Linked List 
--------------------------
+--------------------------------------------
  [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
+
+2.) Exceptions [1.5]
+--------------------
+
+3.) Generic Types
+------------------
+
+4.) ArrayList
+--------------
+
+5.) Complexity Order/Running Time and Space
+-------------------------------------------
+
+6.) Stack
+----------
+
+7.) Queue
+---------
