@@ -39,8 +39,8 @@ to increase your understanding of linked lists in general.
 
   [Generic node definition image (RUSPC)](https://drive.google.com/open?id=0Byz834eiY3wXUFhVbjNTODVDMms&authuser=0)
 
-- Insertion of a node
-- Deletion of a node
+- Insertion of a node in LL
+- Deletion of a node in LL
 - Traversing through LL
   
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
