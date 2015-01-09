@@ -36,6 +36,7 @@ to increase your understanding of linked lists in general.
 
   
 - Generic definition of a node (look at generics to fully understand what you are seeing below):
+
   [Generic node definition image (RUSPC)](https://drive.google.com/open?id=0Byz834eiY3wXUFhVbjNTODVDMms&authuser=0)
 
 - Insertion of a node
