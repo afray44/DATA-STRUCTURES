@@ -35,6 +35,13 @@ to increase your understanding of linked lists in general.
           Storage             |Allocated in one shot (initial size of array cannot change)| Allocated only when needed (Initial size of list can change)
 
   
+- Generic definition of a node (look at generics to fully understand what you are seeing below):
+   ![Alt text](https://drive.google.com/file/d/0Byz834eiY3wXUFhVbjNTODVDMms/view?usp=sharing "Optional title")
+    
+
+- Insertion of a node
+- Deletion of a node
+- Traversing through LL
   
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
   
