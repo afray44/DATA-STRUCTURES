@@ -36,6 +36,7 @@ to increase your understanding of linked lists in general.
   
   
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
-  |Doubl y   L ink ed  L i sts  [ Pr og r a m m ing   Pr obl em s  P4 . 1 4 ,   P4 . 1 6 ]|
--------------------------------------------------------------------------------------------
+  
+  |Doubly Linked Lists|
+-----------------------
  [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
