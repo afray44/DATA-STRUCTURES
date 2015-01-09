@@ -34,6 +34,6 @@ to increase your understanding of linked lists in general.
           Storage             |Allocated in one shot (initial size of array cannot change)| Allocated only when needed (Initial size of list can change)
 
   
- 
+  
   - [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
   - [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
