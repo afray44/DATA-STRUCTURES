@@ -156,7 +156,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
   ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/10%20Traversal%20using%20while%20loop.PNG "10 Traversal using while loop")
 
   
-  Video for further explanation on implementation of LL in Java: [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
+##### Video for further explanation on implementation of LL in Java: [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
 
 
 ##### Circular Linked List:
