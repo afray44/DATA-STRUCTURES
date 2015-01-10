@@ -40,8 +40,7 @@ to increase your understanding of linked lists in general.
   ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/GENERIC%20NODE.PNG "Generic node definition image")
   
 
-###### - Insertion of a node in LL
-
+##### Insertion of a node in LL
 
   A node can be added to the front of the linked list, the end of the linked lists or in between two different   nodes
 
@@ -94,7 +93,7 @@ to increase your understanding of linked lists in general.
   ![Alt text](URL "5 Adding in between two nodes")
 
 
-##### - Deletion of a node in LL
+##### Deletion of a node in LL
   
   There are three basic deletion situations: deleting node from the front of LL, end of LL and in between two nodes in the LL.
 
@@ -138,7 +137,7 @@ to increase your understanding of linked lists in general.
   ![Alt text](URL "8 deleting only node in LL")
 
 
-##### - Traversing through LL
+##### Traversing through LL
 
   Traversing through an LL is useful for when you would like to print out all entries in the LL, find a specific location in the LL where you would like to insert an item or find a specific node that you would like to delete.
 
