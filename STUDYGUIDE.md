@@ -21,11 +21,14 @@ Part I:  Linear Structures
 Circular Linked Lists and doubly linked lists don’t usually appear on exams, but it is still good to learn them
 to increase your understanding of linked lists in general.
 
-## :white_check_mark: Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6] 
+### :white_check_mark: Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6] 
 
 [Imagining a Linked List (Sesh Venugopal)](https://www.youtube.com/watch?v=_ri3Qm5A4Dk)
-  - Definition (Linked List): Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
-  - Difference between linked list and array:
+
+##### Definition (Linked List): 
+Linear structure consisting of nodes. Each node contains a piece of data and a pointer that     points to the next node in the linked list.
+
+##### Difference between linked list and array:
 
           Operation           |     Array                  | Linked List
           ------------------- | -------------------------- | ------------
@@ -34,7 +37,7 @@ to increase your understanding of linked lists in general.
           Storage             |Allocated in one shot (initial size of array cannot change)| Allocated only when needed (Initial size of list can change)
 
   
-- Generic definition of a node (look at [Generic Types](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUIDE.md#3-generic-types) to fully understand image below):
+##### Generic definition of a node (look at [Generic Types](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUIDE.md#3-generic-types) to fully understand image below):
 
   ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/GENERIC%20NODE.PNG "Generic node definition image")
   
