@@ -159,11 +159,12 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 ##### Video for further explanation on implementation of LL in Java: [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
 
 
-##### Circular Linked List:
+### Circular Linked List (4.5.5):
  
-  - Definition (Circular): Normal linked lists in which the last node refers back to the first.
+##### Definition (Circular Linked List): 
+Normal linked lists in which the last node refers back to the first.
 
-  - Insertion of a node in CLL
+##### Insertion of a node in CLL
 
    :pencil2: CASE 1: Inserting in between two nodes in a CLL is the same process as in a regular LL.
 
@@ -184,7 +185,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
    ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/11%20Insertion%20CLL.PNG "11 Insertion CLL")
 
-   - Deletion of a node in CLL
+##### Deletion of a node in CLL
 
 
 ###### :white_check_mark: Doubly Linked List 
