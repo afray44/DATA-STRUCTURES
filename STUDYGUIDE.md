@@ -41,12 +41,13 @@ to increase your understanding of linked lists in general.
   
 
 ###### - Insertion of a node in LL
------------------------------------
+
 
   A node can be added to the front of the linked list, the end of the linked lists or in between two different   nodes
 
-  |CASE 1 Adding a node to the front of an LL|
-  --------------------------------------------
+  
+  :pencil2: CASE 1: Adding a node to the front of an LL
+  
 
   1.) Create node to be added
 
@@ -64,7 +65,7 @@ to increase your understanding of linked lists in general.
 
   ![Alt text](URL "3 Adding to front of LL (Simplified)")
 
-  CASE 2: Adding a node to the end of a LL:
+  :pencil2: CASE 2: Adding a node to the end of a LL
 
   1.) Create node to be added
 
@@ -78,7 +79,7 @@ to increase your understanding of linked lists in general.
   
   ![Alt text](URL "4 Adding to end of LL")
 
-  CASE 3: Adding node in between two nodes (Most probably the most complicated):
+  :pencil2: CASE 3: Adding node in between two nodes (Most probably the most complicated)
 
   Assume newnode is being added after a node called 'v'.
 
@@ -93,11 +94,11 @@ to increase your understanding of linked lists in general.
   ![Alt text](URL "5 Adding in between two nodes")
 
 
-- Deletion of a node in LL
+##### - Deletion of a node in LL
   
   There are three basic deletion situations: deleting node from the front of LL, end of LL and in between two nodes in the LL.
 
-  CASE 1: Deleting from front of LL:
+ :pencil2: CASE 1: Deleting from front of LL
 
   Assuming the first node in an LL is called 'front'.
 
@@ -109,7 +110,7 @@ to increase your understanding of linked lists in general.
 
   ![Alt text](URL "6 Deleting from front of LL")
 
-  CASE 2: Deleting node in between two nodes in LL:
+  :pencil2: CASE 2: Deleting node in between two nodes in LL
 
   Assuming the node 'v' is in front of node to be deleted.
 
@@ -121,7 +122,7 @@ to increase your understanding of linked lists in general.
   
   ![Alt text](URL "7 deleting node from in between two nodes")
 
-  CASE 3: Deleting from end of LL:
+  :pencil2: CASE 3: Deleting from end of LL
 
   Deleting from the end of an LL is similar to deleting a node in between two nodes.
   The same code that we used in CASE 2 can be used here as the only difference would be oldnode.next being equal to null.
@@ -137,7 +138,7 @@ to increase your understanding of linked lists in general.
   ![Alt text](URL "8 deleting only node in LL")
 
 
-- Traversing through LL
+##### - Traversing through LL
 
   Traversing through an LL is useful for when you would like to print out all entries in the LL, find a specific location in the LL where you would like to insert an item or find a specific node that you would like to delete.
 
@@ -157,14 +158,14 @@ to increase your understanding of linked lists in general.
   Video for further explanation on implementation of LL in Java: [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
 
 
-  Circular Linked List:
+ ##### Circular Linked List:
   - Definition (Circular): Normal linked lists in which the last node refers back to the first.
 
   - Insertion of a node in CLL
 
-   CASE 1: Inserting in between two nodes in a CLL is the same process as in a regular LL.
+   :pencil2: CASE 1: Inserting in between two nodes in a CLL is the same process as in a regular LL.
 
-   CASE 2 & 3: Inserting at the beginning and at the end of an CLL is the same process as the last node refers back to the first node.
+   :pencil2: CASE 2 & 3: Inserting at the beginning and at the end of an CLL is the same process as the last node refers back to the first node.
 
    Assuming the node pointing to the first node is called 'last'.
 
