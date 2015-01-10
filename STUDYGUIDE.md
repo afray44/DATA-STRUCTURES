@@ -60,11 +60,11 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
   
   Assuming first node in LL is called 'front'.
 
-  ![Alt text](URL "2 Adding to front of LL")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/2%20Adding%20to%20front%20of%20LL.PNG "2 Adding to front of LL")
 
   There is an even simpler way to add a node to the beginning of the LL:
 
-  ![Alt text](URL "3 Adding to front of LL (Simplified)")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/3%20Adding%20to%20front%20of%20LL%20%28Simpliefied%29.PNG "3 Adding to front of LL (Simplified)")
 
   :pencil2: CASE 2: Adding a node to the end of a LL
 
@@ -78,7 +78,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
   Assuming last node in LL is called 'last'.
   
-  ![Alt text](URL "4 Adding to end of LL")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/4%20Adding%20to%20end%20of%20LL.PNG "4 Adding to end of LL")
 
   :pencil2: CASE 3: Adding node in between two nodes (Most probably the most complicated)
 
@@ -92,7 +92,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
   Example code:  
 
-  ![Alt text](URL "5 Adding in between two nodes")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/5%20Adding%20in%20between%20two%20nodes.PNG "5 Adding in between two nodes")
 
 
 ##### Deletion of a node in LL
@@ -109,7 +109,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
   Example code:
 
-  ![Alt text](URL "6 Deleting from front of LL")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/6%20Deleting%20from%20front%20of%20LL.PNG "6 Deleting from front of LL")
 
   :pencil2: CASE 2: Deleting node in between two nodes in LL
 
@@ -121,7 +121,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
   Example code:
   
-  ![Alt text](URL "7 deleting node from in between two nodes")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/7%20deleting%20node%20from%20in%20between%20two%20nodes.PNG "7 deleting node from in between two nodes")
 
   :pencil2: CASE 3: Deleting from end of LL
 
@@ -136,7 +136,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
   Example code:
 
-  ![Alt text](URL "8 deleting only node in LL")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/8%20deleting%20only%20node%20in%20LL.PNG "8 deleting only node in LL")
 
 
 ##### Traversing through LL
@@ -149,11 +149,11 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
   Using for loop:
 
-  ![Alt text](URL "9 Traversal with for loop")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/9%20Traversal%20with%20for%20loop.PNG "9 Traversal with for loop")
 
   Using While Loop:
 
-  ![Alt text](URL "10 Traversal using while loop")
+  ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/10%20Traversal%20using%20while%20loop.PNG "10 Traversal using while loop")
 
   
   Video for further explanation on implementation of LL in Java: [Regular Linked List in Java (Derek Banas)](https://www.youtube.com/watch?v=195KUinjBpU)
@@ -182,7 +182,7 @@ Linear structure consisting of nodes. Each node contains a piece of data and a p
 
    Example Code:
 
-   ![Alt text](URL "11 Insertion CLL")
+   ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/11%20Insertion%20CLL.PNG "11 Insertion CLL")
 
    - Deletion of a node in CLL
 
