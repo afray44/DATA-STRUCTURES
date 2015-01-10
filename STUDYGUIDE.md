@@ -21,7 +21,7 @@ Part I:  Linear Structures
 Circular Linked Lists and doubly linked lists don’t usually appear on exams, but it is still good to learn them
 to increase your understanding of linked lists in general.
 
-###### :white_check_mark: Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6] 
+:white_check_mark: Regular Linked Lists and Circular Linked Lists Summary [Sec 4.5 - 4.6] 
 ----------------------------------------------------------------------------
 
 [Imagining a Linked List (Sesh Venugopal)](https://www.youtube.com/watch?v=_ri3Qm5A4Dk)
@@ -40,8 +40,8 @@ to increase your understanding of linked lists in general.
   ![Alt text](https://github.com/RUSpaceCadet/DATA-STRUCTURES/blob/master/STUDYGUDIE%20IMAGES/GENERIC%20NODE.PNG "Generic node definition image")
   
 
-- Insertion of a node in LL
--------------------------------
+###### - Insertion of a node in LL
+-----------------------------------
 
   A node can be added to the front of the linked list, the end of the linked lists or in between two different   nodes
 
