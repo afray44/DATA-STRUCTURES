@@ -168,9 +168,9 @@ Normal linked lists in which the last node refers back to the first.
 
    :pencil2: CASE 1: Inserting in between two nodes in a CLL is the same process as in a regular LL.
 
-   :pencil2: CASE 2 & 3: Inserting at the beginning and at the end of an CLL is the same process as the last node refers back to the first node.
+   :pencil2: CASE 2: Inserting at the end of CLL.
 
-   Assuming the node pointing to the first node is called 'last'.
+   Assuming the node pointing to the last node is called 'last'.
 
    1.) Create new node
 
@@ -188,9 +188,9 @@ Normal linked lists in which the last node refers back to the first.
 ##### Deletion of a node in CLL
 
 
-###### :white_check_mark: Doubly Linked List 
---------------------------------------------
- [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
+### :white_check_mark: Doubly Linked List 
+
+##### [Introduction to Doubly Linked List ](https://www.youtube.com/watch?v=JdQeNxWCguQ) [Programming Problems P4.14, P4.16]
 
 2.) Exceptions [1.5]
 --------------------
